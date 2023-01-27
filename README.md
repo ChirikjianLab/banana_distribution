@@ -2,7 +2,7 @@
 
 This repo provides the source code for the paper:
 > [**The Banana Distribution is Gaussian: A Localization Study with Exponential Coordinates**](http://roboticsproceedings.org/rss08/p34.pdf)
-Andrew W. Long, Kevin C. Wolfe, Michael J. Mashner, Gregory S. Chirikjian
+> Andrew W. Long, Kevin C. Wolfe, Michael J. Mashner, Gregory S. Chirikjian
 
 <img src="/figure/banana.png"  width="600"/>
 
