@@ -22,7 +22,7 @@ This repo provides implementation in MATLAB. The algorithm was implemented in MA
 2) Use 'mode = 1' to control the differential-drive robot moving along a straight line, 'mode = 2' controls the differential-drive robot moving along an arc of radius $a$ = 1 at rate $\dot{\alpha}$ = 1. $D$ is the diffusion constant.
 
 # Additions
-I am not the author of this paper, just interested in it and reproducing it. All code in this repository is non-source code and was written by me personally to reproduce this paper. They could function as a reference for someone interested in this work. The codes are programmed and tested in MATLAB 2022b.
+All code in this repository is non-source code and was written to reproduce this paper. They could function as a reference for someone interested in this work. The codes are programmed and tested in MATLAB 2022b.
 
 ## 1. Introduction
 This work was published several years ago and proposed to use of exponential coordinates and Lie groups to represent the robot’s pose. And the results in these coordinates perform better than a Gaussian in Cartesian coordinates. If you are interested in this paper, welcome to click [this link](https://www.roboticsproceedings.org/rss08/p34.pdf) for more details.
